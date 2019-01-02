@@ -1,4 +1,4 @@
-# ytknl.github.io
+# schaperm.github.io
 
 Repository info/disclaimer:
 Deze repository bevat 3th party Kodi add-ons met alleen YouTube sources dus geen illegaal content!!
